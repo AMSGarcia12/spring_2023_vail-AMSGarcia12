@@ -8,6 +8,7 @@
 
 ## Main takeaways from doing today's assignment
 <To be filled>
+  In progress
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 <To be filled>
