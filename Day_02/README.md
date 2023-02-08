@@ -7,10 +7,10 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Tensors, use of a basic neural network, data loaders
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+I did not think that utilization of a basic Neural Network would be so accessible, excited to use this on other applications!
 
 ## Additional resources used 
 <To be filled>
