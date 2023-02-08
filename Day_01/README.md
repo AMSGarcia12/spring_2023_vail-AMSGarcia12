@@ -9,10 +9,11 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Classification Methods: Decision Trees and Random Forests
+Regression Methods: Decision Trees and Linear Regression
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Use of different kinds of learning methods
 
 ## Additional resources used 
 <To be filled>
