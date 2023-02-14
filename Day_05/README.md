@@ -6,10 +6,10 @@
 * Mean Squared Logarithm Error
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Different types of error
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Pretty straightforward content today, hoping to see when which error metric would be used for what applications
 
 ## Additional resources used 
 <To be filled>
