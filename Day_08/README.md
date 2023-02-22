@@ -8,10 +8,10 @@
 * Advanced activation functions: Swish, GeLU, SeLU
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+There are many different variations of ReLU to account for different siutations/modeling
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Lots of math with these activation functions
 
 ## Additional resources used 
 <To be filled>
