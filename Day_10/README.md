@@ -7,10 +7,10 @@
 * Underfitting
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Methods of avoiding both underfitting and overfitting
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+
 
 ## Additional resources used 
 <To be filled>
